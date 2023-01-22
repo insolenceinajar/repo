@@ -12,6 +12,7 @@ Contents
 
 .. toctree::
 
+   api
    Quick start guide
       Development tools
       Github connectivity
