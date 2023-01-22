@@ -25,5 +25,29 @@ Information on how importing files from Gothic is handled, as well as the genera
 
 II: Static assets
 ------------
-Information on STatic (inanimate) assets or objects.
+Information on Static (inanimate) assets or objects.
 
+
+II: Animate objects
+------------
+Information on animate assets or objects such as NPCs or enemies and different forms of interection with those entities.
+
+
+III: Fighting
+------------
+Game state: The fighting system.
+
+
+III: Dialogue
+------------
+Game state: The dialogue system.
+
+
+III: World interaction
+------------
+Information on interacting with the environment, such es levers, chests or pocketable items.
+
+
+III: Arena mode
+------------
+Game state: The arena mode.
