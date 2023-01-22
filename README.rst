@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+G:VR Doku
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Done with Read tge Docs (https://docs.readthedocs.io/en/stable/tutorial/) which is based on Python/Sphinx.
