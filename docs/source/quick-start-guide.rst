@@ -6,29 +6,19 @@ Quick start guide
 Development tools
 ------------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+Recommended and required tools for developing G:VR.
 
 Github connectivity
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Setting up and working with Github over the course of this project.
 
-.. autofunction:: lumache.get_random_ingredients
+Project setup in Unity
+----------------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Setting up the project on a local machine using Unity
 
-.. autoexception:: lumache.InvalidKindError
+FAQ
+------------
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Frequently asked questions.
