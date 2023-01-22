@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to the GothicVR developer documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The **GothicVR** team is in the process of creating a VR experience based on the game **Gothic** from the year 2001. This documentation holds information on the content and scope of the project, as well as information useful to developers who would like to participate. 
 
 .. note::
 
@@ -18,5 +12,20 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Quick start guide
+      Development tools
+      Github connectivity
+      Project setup in Unity
+      FAQ
+      
+   GothicVR
+      Scope and Roadmap
+      File structure
+      I: Unity and VR
+      I: Importing assets
+      II: Static assets
+      II: Animate objects
+      III: Fighting
+      III: Dialogie
+      III: World interaction
+      III: Arena mode
