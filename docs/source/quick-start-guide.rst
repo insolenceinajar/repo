@@ -1,8 +1,6 @@
 Quick start guide
 =====
 
-.. _installation:
-
 Development tools
 ------------
 Recommended and required tools for developing G:VR.
