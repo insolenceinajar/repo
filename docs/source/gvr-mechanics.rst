@@ -1,6 +1,8 @@
 GothicVR Mechanics
 =====
 
+.. _installation:
+
 Scope and Roadmap
 ------------
 THe goal that this project aims at and a comprehensive list of the most crucial milestones and features.
