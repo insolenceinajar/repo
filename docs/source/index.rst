@@ -13,21 +13,5 @@ Contents
 .. toctree::
 
    quick-start-guide
-      Development tools
-      Github connectivity
-      Project setup in Unity
-      FAQ
-      
    gvr-mechanics
-      Scope and Roadmap
-      File structure
-      I: Unity and VR
-      I: Importing assets
-      II: Static assets
-      II: Animate objects
-      III: Fighting
-      III: Dialogie
-      III: World interaction
-      III: Arena mode
-
    orga-teams
