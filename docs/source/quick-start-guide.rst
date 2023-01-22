@@ -1,9 +1,9 @@
-Usage
+Quick start guide
 =====
 
 .. _installation:
 
-Installation
+Development tools
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Github connectivity
 ----------------
 
 To retrieve a list of random ingredients,
