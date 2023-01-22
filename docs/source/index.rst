@@ -12,13 +12,13 @@ Contents
 
 .. toctree::
 
-   Quick start guide
+   quick-start-guide
       Development tools
       Github connectivity
       Project setup in Unity
       FAQ
       
-   GothicVR Mechanics
+   gvr-mechanics
       Scope and Roadmap
       File structure
       I: Unity and VR
