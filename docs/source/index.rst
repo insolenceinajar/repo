@@ -12,7 +12,7 @@ Contents
 
 .. toctree::
 
-   api
+   quick-start-guide
    Quick start guide
       Development tools
       Github connectivity
